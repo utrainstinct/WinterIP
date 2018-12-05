@@ -6,7 +6,7 @@
 using namespace std;
 using namespace cv;
 
-Mat img = imread("./parth.jpg",1);
+Mat img = imread("./lenna.jpg",1);
 
 void callback1(int t, void* s)
 {
